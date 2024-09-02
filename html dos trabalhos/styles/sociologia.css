@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    text-align: center;
+    color: white;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.inicial {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+
+.inicial {
+    margin: 0 15px;
+
+}
+
+.inicial a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.inicial :hover {
+    text-decoration: underline;
+}
+
+.tituloesub {
+    color: #333;
+}
+
+.tra {
+    padding-left: 1rem;
+}
